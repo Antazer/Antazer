@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670778973 source:c:\one drive\onedrive - telkom university\documents\struktur data\minggu 12\main\flight.cpp
+	"flight.h"
+
+1670776678 c:\one drive\onedrive - telkom university\documents\struktur data\minggu 12\main\flight.h
+	<iostream>
+
+1670778973 source:c:\one drive\onedrive - telkom university\documents\struktur data\minggu 12\main\main.cpp
+	<iostream>
+	"flight.h"
+
