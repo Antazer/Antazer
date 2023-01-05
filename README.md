@@ -6,6 +6,7 @@ I'm 19 years old👦
 - 🏫 I'm currently student at Telkom University
 - 👀 I'm currently learning Math and Drawing 
 - Fun facts :
+
     A. I'm good at playing soccer⚽
     
     B. I'm good at playing chess♟️
