@@ -12,10 +12,10 @@ I'm 19 years old👦
     
     B. I'm good at playing chess♟️
     
-    C. I'm very like ninja🥷
+    C. I'm love ninja🥷
     
     D. I'm very good at playing video games🎮
     
-    E. I'm can speak japanese 🗾
+    E. I can speak japanese 🗾
     
 ---------------------------------------------------
